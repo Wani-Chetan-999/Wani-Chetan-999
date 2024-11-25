@@ -77,4 +77,3 @@
 
 ---
 
-### 🎉 Use this template and modify it based on your needs. Let me know if you'd like help setting this up! 🚀
