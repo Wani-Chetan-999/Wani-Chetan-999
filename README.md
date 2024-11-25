@@ -1,12 +1,15 @@
-Here’s an updated and **visually appealing GitHub README template** with emojis, icons, badges, and more to make it stand out:
 
----
 
 <h1 align="center">👋 Hi, I'm <a href="https://wani-chetan-999.github.io/Personal-Portfolio/" target="_blank">Chetan Wani</a>!</h1>  
 <p align="center">
   🚀 <b>Full-Stack Developer</b> | 💡 <b>Tech Enthusiast</b> | 🤖 <b>Machine Learning Explorer</b>
 </p>  
 
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Constant+Learner;Full+Stack+Developer;Machine+Learning+Explorer;Tech+Enthusiast" alt="Typing Animation" />
+</p>
 ---
 
 ### 🌟 About Me  
