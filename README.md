@@ -65,9 +65,15 @@
 </p>  
 
 ---
-
-💡 *"Code is the bridge between ideas and reality!"*  
-Let’s create something amazing together! 🚀  
+<p align="center">
+  <b style="font-size: 1.5em; color: #f39c12;">💡 <i>"Code is the bridge between ideas and reality!"</i></b>  
+</p>  
+<p align="center">
+  <span style="font-size: 1.2em; background: linear-gradient(90deg, #36d1dc, #5b86e5); -webkit-background-clip: text; color: transparent;">
+    Let’s create something amazing together! 🚀
+  </span>
+</p>
+ 
 
 ---
 
