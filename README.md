@@ -41,7 +41,7 @@
 
 | 🌟 **Project Name** | 📝 **Description** | 🔗 **Links** |  
 |---------------------|--------------------|-------------|  
-| 🎯 **[Face Recognition Attendance System](#)** | A Python & OpenCV-based AI attendance tracker. | [🔗 View Repo](#) |  
+| 🎯 **[Face Recognition Attendance System](#)** | A Python & OpenCV-based AI attendance tracker. | [🔗 View Repo](https://github.com/Wani-Chetan-999/QuickAttend.git) |  
 | 🛡️ **[Deepfake Detection](#)** | Detects fake media using ML models for image analysis. | [🔗 View Repo](#) |  
 | 🌐 **[Personal Portfolio](https://wani-chetan-999.github.io/Personal-Portfolio/)** | A fully responsive portfolio website hosted on GitHub Pages. | [🔗 Live Demo](https://chetandev999.netlify.app/) |  
 
