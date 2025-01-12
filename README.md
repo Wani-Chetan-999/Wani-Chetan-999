@@ -103,7 +103,7 @@
 ---
 
 <p align="center">
-  <b style="font-size: 1.5em; color: #f39c12;">💡 <i>"Code is not just a skill, it’s an art form."</i></b>  
+  <b style="font-size: 1.5em; color: #f39c12;"> 💡 <i>"Code is not just a skill, it’s an art form."</i> 💡 </b>  
 </p>  
 
 <p align="center">
