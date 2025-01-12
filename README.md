@@ -42,13 +42,42 @@
 
 ### 🔥 Featured Projects  
 
-| 🌟 **Project Name** | 📝 **Description** | 🔗 **Links** |  
-|---------------------|--------------------|-------------|  
-| 🎯 **[QuickAttend (OpenCV Attendance System)](https://github.com/Wani-Chetan-999/QuickAttend.git)** | AI-powered attendance tracker using Python and OpenCV. | [🔗 View Repo](https://github.com/Wani-Chetan-999/QuickAttend.git) |  
-| 🛡️ **[Deepfake Detection](https://github.com/Wani-Chetan-999/DeepFake-Detection.git)** | Detects fake media using ML models for image analysis. | [🔗 View Repo](https://github.com/Wani-Chetan-999/DeepFake-Detection.git) |  
-| 🌐 **[Personal Portfolio](https://chetandev999.netlify.app)** | Fully responsive personal portfolio showcasing my work and skills. | [🔗 Live Demo](https://chetandev999.netlify.app/) |  
-| 🤖 **[Healthcare Chatbot](https://github.com/Wani-Chetan-999/Healthcare-Chatbot.git)** | NLP-powered chatbot for healthcare assistance. | [🔗 View Repo](https://github.com/Wani-Chetan-999/Healthcare-Chatbot.git) |  
-| 🏃 **[Pose Estimation](https://github.com/Wani-Chetan-999/Human-Pose-Estimation)** | Real-time human pose estimation using OpenCV, TensorFlow, and Streamlit. | [🔗 Live Demo](https://human-pose-estimation-app-chetandev999.streamlit.app/) |  
+<table style="width: 100%; border-collapse: collapse; text-align: center;">
+  <thead style="background-color: blue; color: white;">
+    <tr>
+      <th style="padding: 12px;">🌟 Project Name</th>
+      <th style="padding: 12px;">📝 Description</th>
+      <th style="padding: 12px;">🔗 Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #fff3e0;">
+      <td style="padding: 12px; font-weight: bold;">🎯 <a href="https://github.com/Wani-Chetan-999/QuickAttend.git" target="_blank">QuickAttend</a></td>
+      <td style="padding: 12px;">AI-powered attendance tracker using Python and OpenCV.</td>
+      <td style="padding: 12px;"><a href="https://github.com/Wani-Chetan-999/QuickAttend.git" target="_blank">🔗 View Repo</a></td>
+    </tr>
+    <tr style="background-color: #c8e6c9;">
+      <td style="padding: 12px; font-weight: bold;">🛡️ <a href="https://github.com/Wani-Chetan-999/DeepFake-Detection.git" target="_blank">Deepfake Detection</a></td>
+      <td style="padding: 12px;">Detects fake media using ML models for image analysis.</td>
+      <td style="padding: 12px;"><a href="https://github.com/Wani-Chetan-999/DeepFake-Detection.git" target="_blank">🔗 View Repo</a></td>
+    </tr>
+    <tr style="background-color: #fff3e0;">
+      <td style="padding: 12px; font-weight: bold;">🌐 <a href="https://chetandev999.netlify.app" target="_blank">Personal Portfolio</a></td>
+      <td style="padding: 12px;">Fully responsive personal portfolio showcasing my work and skills.</td>
+      <td style="padding: 12px;"><a href="https://chetandev999.netlify.app" target="_blank">🔗 Live Demo</a></td>
+    </tr>
+    <tr style="background-color: #c8e6c9;">
+      <td style="padding: 12px; font-weight: bold;">🤖 <a href="https://github.com/Wani-Chetan-999/Healthcare-Chatbot.git" target="_blank">Healthcare Chatbot</a></td>
+      <td style="padding: 12px;">NLP-powered chatbot for healthcare assistance.</td>
+      <td style="padding: 12px;"><a href="https://github.com/Wani-Chetan-999/Healthcare-Chatbot.git" target="_blank">🔗 View Repo</a></td>
+    </tr>
+    <tr style="background-color: #fff3e0;">
+      <td style="padding: 12px; font-weight: bold;">🏃 <a href="https://github.com/Wani-Chetan-999/Human-Pose-Estimation" target="_blank">Pose Estimation</a></td>
+      <td style="padding: 12px;">Real-time human pose estimation using OpenCV, TensorFlow, and Streamlit.</td>
+      <td style="padding: 12px;"><a href="https://human-pose-estimation-app-chetandev999.streamlit.app/" target="_blank">🔗 Live Demo</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
