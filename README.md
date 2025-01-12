@@ -113,5 +113,3 @@
 </p>  
 
 ---
-
-This version is cleaner, professional, and visually striking. Let me know if you'd like more tweaks! 😊
