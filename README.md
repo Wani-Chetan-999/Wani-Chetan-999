@@ -37,6 +37,10 @@
 
 ---
 
+Here’s your updated **Featured Projects** section with the Pose Estimation project added:
+
+---
+
 ### 🔥 Featured Projects  
 
 | 🌟 **Project Name** | 📝 **Description** | 🔗 **Links** |  
@@ -45,8 +49,10 @@
 | 🛡️ **[Deepfake Detection](https://github.com/Wani-Chetan-999/DeepFake-Detection.git)** | Detects fake media using ML models for image analysis. | [🔗 View Repo](https://github.com/Wani-Chetan-999/DeepFake-Detection.git) |  
 | 🌐 **[Personal Portfolio](https://chetandev999.netlify.app)** | A fully responsive portfolio website hosted on GitHub Pages. | [🔗 Live Demo](https://chetandev999.netlify.app/) |  
 | 🤖 **[Healthcare Chatbot](https://github.com/Wani-Chetan-999/Healthcare-Chatbot.git)** | A chatbot built using Python and NLP techniques to provide healthcare-related assistance and information. | [🔗 View Repo](https://github.com/Wani-Chetan-999/Healthcare-Chatbot.git) |  
+| 🏃 **[Pose Estimation](https://github.com/Wani-Chetan-999/Human-Pose-Estimation)** | Real-time human pose estimation using OpenCV, TensorFlow, and Streamlit. | [🔗 Live Demo](https://human-pose-estimation-app-chetandev999.streamlit.app/) |  
 
 ---
+
 
 ### 📊 GitHub Stats  
 <p align="center">
