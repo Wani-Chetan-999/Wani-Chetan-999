@@ -68,9 +68,9 @@
       <td style="padding: 12px;"><a href="https://chetandev999.netlify.app" target="_blank">🔗 Live Demo</a></td>
     </tr>
     <tr style="background-color: #c8e6c9;">
-      <td style="padding: 12px; font-weight: bold;">🤖 <a href="https://github.com/Wani-Chetan-999/Healthcare-Chatbot.git" target="_blank">Healthcare Chatbot</a></td>
+      <td style="padding: 12px; font-weight: bold;">🤖 <a href="https://github.com/Wani-Chetan-999/Healthcare_Chatbot" target="_blank">Healthcare Chatbot</a></td>
       <td style="padding: 12px;">NLP-powered chatbot for healthcare assistance.</td>
-      <td style="padding: 12px;"><a href="https://github.com/Wani-Chetan-999/Healthcare-Chatbot.git" target="_blank">🔗 View Repo</a></td>
+      <td style="padding: 12px;"><a href="https://github.com/Wani-Chetan-999/Healthcare_Chatbot.git" target="_blank">🔗 View Repo</a></td>
     </tr>
     <tr style="background-color: #fff3e0;">
       <td style="padding: 12px; font-weight: bold;">🏃 <a href="https://github.com/Wani-Chetan-999/Human-Pose-Estimation" target="_blank">Pose Estimation</a></td>
