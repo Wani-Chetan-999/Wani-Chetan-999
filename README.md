@@ -63,7 +63,7 @@
       <td style="padding: 12px;"><a href="https://github.com/Wani-Chetan-999/DeepFake-Detection.git" target="_blank">🔗 View Repo</a></td>
     </tr>
     <tr style="background-color: #fff3e0;">
-      <td style="padding: 12px; font-weight: bold;">🌐 <a href="https://chetandev999.netlify.app" target="_blank">Personal Portfolio</a></td>
+      <td style="padding: 12px; font-weight: bold;">🌐 <a href="https://github.com/Wani-Chetan-999/Personal-Portfolio" target="_blank">Personal Portfolio</a></td>
       <td style="padding: 12px;">Fully responsive personal portfolio showcasing my work and skills.</td>
       <td style="padding: 12px;"><a href="https://chetandev999.netlify.app" target="_blank">🔗 Live Demo</a></td>
     </tr>
