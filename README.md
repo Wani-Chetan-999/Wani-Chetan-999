@@ -5,9 +5,12 @@
   🚀 <b>Full-Stack Developer</b> | 💡 <b>Tech Enthusiast</b> | 🤖 <b>Machine Learning Explorer</b>
 </p>  
 
+---
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=🚀+Code+Dreamer+%26+Builder;⚡+Full-Stack+Developer;🤖+AI+%26+ML+Explorer;🌱+Lifelong+Learner;💡+Tech+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Code+Dreamer+%26+Builder;%E2%9A%A1+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+ML+Explorer;%F0%9F%8C%B1+Lifelong+Learner;%F0%9F%92%A1+Tech+Enthusiast" alt="Typing Animation" />
 </div>
+
 
 ---
 
