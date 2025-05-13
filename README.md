@@ -46,52 +46,53 @@
 
 ### 🔥 Featured Projects  
 
-<table style="width: 100%; border-collapse: collapse; text-align: center;">
+<table style="width: 100%; border-collapse: collapse; text-align: left; table-layout: auto;">
   <thead style="background-color: blue; color: white;">
     <tr>
-      <th style="padding: 12px;">🌟 Project Name</th>
+      <th style="padding: 12px; white-space: nowrap;">🌟 Project Name</th>
       <th style="padding: 12px;">📝 Description</th>
-      <th style="padding: 12px;">🔗 Links</th>
+      <th style="padding: 12px; white-space: nowrap;">🔗 Links</th>
     </tr>
   </thead>
   <tbody>
     <tr style="background-color: #fff3e0;">
-      <td style="padding: 12px; font-weight: bold;">🎯 <a href="https://github.com/Wani-Chetan-999/QuickAttend.git" target="_blank">QuickAttend</a></td>
+      <td style="padding: 12px; font-weight: bold; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/QuickAttend.git" target="_blank">🎯 QuickAttend</a></td>
       <td style="padding: 12px;">AI-powered attendance tracker using Python and OpenCV.</td>
-      <td style="padding: 12px;"><a href="https://github.com/Wani-Chetan-999/QuickAttend.git" target="_blank">🔗 View Repo</a></td>
+      <td style="padding: 12px; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/QuickAttend.git" target="_blank">🔗 View Repo</a></td>
     </tr>
     <tr style="background-color: #c8e6c9;">
-      <td style="padding: 12px; font-weight: bold;">🛡️ <a href="https://github.com/Wani-Chetan-999/DeepFake-Detection.git" target="_blank">Deepfake Detection</a></td>
+      <td style="padding: 12px; font-weight: bold; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/DeepFake-Detection.git" target="_blank">🛡️ Deepfake Detection</a></td>
       <td style="padding: 12px;">Detects fake media using ML models for image analysis.</td>
-      <td style="padding: 12px;"><a href="https://github.com/Wani-Chetan-999/DeepFake-Detection.git" target="_blank">🔗 View Repo</a></td>
+      <td style="padding: 12px; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/DeepFake-Detection.git" target="_blank">🔗 View Repo</a></td>
     </tr>
     <tr style="background-color: #fff3e0;">
-      <td style="padding: 12px; font-weight: bold;">🌐 <a href="https://github.com/Wani-Chetan-999/Personal-Portfolio" target="_blank">Personal Portfolio</a></td>
+      <td style="padding: 12px; font-weight: bold; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/Personal-Portfolio" target="_blank">🌐 Personal Portfolio</a></td>
       <td style="padding: 12px;">Fully responsive personal portfolio showcasing my work and skills.</td>
-      <td style="padding: 12px;"><a href="https://chetandev999.netlify.app" target="_blank">🔗 Live Demo</a></td>
+      <td style="padding: 12px; white-space: nowrap;"><a href="https://chetandev999.netlify.app" target="_blank">🔗 Live Demo</a></td>
     </tr>
     <tr style="background-color: #c8e6c9;">
-      <td style="padding: 12px; font-weight: bold;">🤖 <a href="https://github.com/Wani-Chetan-999/Healthcare_Chatbot" target="_blank">Healthcare Chatbot</a></td>
+      <td style="padding: 12px; font-weight: bold; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/Healthcare_Chatbot" target="_blank">🤖 Healthcare Chatbot</a></td>
       <td style="padding: 12px;">NLP-powered chatbot for healthcare assistance.</td>
-      <td style="padding: 12px;"><a href="https://github.com/Wani-Chetan-999/Healthcare_Chatbot.git" target="_blank">🔗 View Repo</a></td>
+      <td style="padding: 12px; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/Healthcare_Chatbot.git" target="_blank">🔗 View Repo</a></td>
     </tr>
     <tr style="background-color: #fff3e0;">
-      <td style="padding: 12px; font-weight: bold;">🏃 <a href="https://github.com/Wani-Chetan-999/Human-Pose-Estimation" target="_blank">Pose Estimation</a></td>
+      <td style="padding: 12px; font-weight: bold; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/Human-Pose-Estimation" target="_blank">🏃 Pose Estimation</a></td>
       <td style="padding: 12px;">Real-time human pose estimation using OpenCV, TensorFlow, and Streamlit.</td>
-      <td style="padding: 12px;"><a href="https://human-pose-estimation-app-chetandev999.streamlit.app/" target="_blank">🔗 Live Demo</a></td>
+      <td style="padding: 12px; white-space: nowrap;"><a href="https://human-pose-estimation-app-chetandev999.streamlit.app/" target="_blank">🔗 Live Demo</a></td>
     </tr>
-     <tr style="background-color: #fff3e0;">
-      <td style="padding: 12px; font-weight: bold;">🏃 <a href="https://github.com/Wani-Chetan-999/wms" target="_blank">Eco-Guardian(WMS)</a></td>
+    <tr style="background-color: #fff3e0;">
+      <td style="padding: 12px; font-weight: bold; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/wms" target="_blank">♻️ Eco-Guardian (WMS)</a></td>
       <td style="padding: 12px;">A smart waste management system enabling users to report waste, while admins track, manage, and optimize cleanup efficiently.</td>
-      <td style="padding: 12px;"><a href="https://github.com/Wani-Chetan-999/wms" target="_blank">🔗 Live Demo</a></td>
+      <td style="padding: 12px; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/wms" target="_blank">🔗 GitHub Repo</a></td>
     </tr>
-     <tr style="background-color: #fff3e0;">
-      <td style="padding: 12px; font-weight: bold;">🏃 <a href="https://brightskillz.42web.io/" target="_blank">BrightSkillz</a></td>
-      <td style="padding: 12px;">Empowering learners with modern, in-demand skills through an intuitive and engaging e-learning platform..</td>
-      <td style="padding: 12px;"><a href="https://brightskillz.42web.io/" target="_blank">🔗 Live Demo</a></td>
+    <tr style="background-color: #fff3e0;">
+      <td style="padding: 12px; font-weight: bold; white-space: nowrap;"><a href="https://brightskillz.42web.io/" target="_blank">🎓 BrightSkillz</a></td>
+      <td style="padding: 12px;">Empowering learners with modern, in-demand skills through an intuitive and engaging e-learning platform.</td>
+      <td style="padding: 12px; white-space: nowrap;"><a href="https://brightskillz.42web.io/" target="_blank">🔗 Live Demo</a></td>
     </tr>
   </tbody>
 </table>
+
 
 ---
 
