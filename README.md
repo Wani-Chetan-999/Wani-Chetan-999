@@ -60,11 +60,6 @@
       <td style="padding: 12px;">AI-powered attendance tracker using Python and OpenCV.</td>
       <td style="padding: 12px; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/QuickAttend.git" target="_blank">🔗_View_Repo</a></td>
     </tr>
-    <tr style="background-color: #c8e6c9;">
-      <td style="padding: 12px; font-weight: bold; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/DeepFake-Detection.git" target="_blank">🛡️_Deepfake_Detection</a></td>
-      <td style="padding: 12px;">Detects fake media using ML models for image analysis.</td>
-      <td style="padding: 12px; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/DeepFake-Detection.git" target="_blank">🔗_View_Repo</a></td>
-    </tr>
     <tr style="background-color: #fff3e0;">
       <td style="padding: 12px; font-weight: bold; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/Personal-Portfolio" target="_blank">🌐_Personal_Portfolio</a></td>
       <td style="padding: 12px;">Fully responsive personal portfolio showcasing my work and skills.</td>
@@ -89,6 +84,11 @@
       <td style="padding: 12px; font-weight: bold; white-space: nowrap;"><a href="https://brightskillz.42web.io/" target="_blank">🎓_BrightSkillz</a></td>
       <td style="padding: 12px;">Empowering learners with modern, in-demand skills through an intuitive and engaging e-learning platform.</td>
       <td style="padding: 12px; white-space: nowrap;"><a href="https://brightskillz.42web.io/" target="_blank">🔗_Live_Demo</a></td>
+    </tr>
+    <tr style="background-color: #c8e6c9;">
+      <td style="padding: 12px; font-weight: bold; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/DeepFake-Detection.git" target="_blank" >🛡️_Deepfake_Detection</a></td>
+      <td style="padding: 12px;">Detects fake media using ML models for image analysis.</td>
+      <td style="padding: 12px; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/DeepFake-Detection.git" target="_blank">🔗_View_Repo</a></td>
     </tr>
   </tbody>
 </table>
