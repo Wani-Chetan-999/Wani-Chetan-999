@@ -80,6 +80,16 @@
       <td style="padding: 12px;">Real-time human pose estimation using OpenCV, TensorFlow, and Streamlit.</td>
       <td style="padding: 12px;"><a href="https://human-pose-estimation-app-chetandev999.streamlit.app/" target="_blank">🔗 Live Demo</a></td>
     </tr>
+     <tr style="background-color: #fff3e0;">
+      <td style="padding: 12px; font-weight: bold;">🏃 <a href="https://github.com/Wani-Chetan-999/wms" target="_blank">Eco-Guardian(WMS)</a></td>
+      <td style="padding: 12px;">A smart waste management system enabling users to report waste, while admins track, manage, and optimize cleanup efficiently.</td>
+      <td style="padding: 12px;"><a href="https://github.com/Wani-Chetan-999/wms" target="_blank">🔗 Live Demo</a></td>
+    </tr>
+     <tr style="background-color: #fff3e0;">
+      <td style="padding: 12px; font-weight: bold;">🏃 <a href="https://brightskillz.42web.io/" target="_blank">BrightSkillz</a></td>
+      <td style="padding: 12px;">Empowering learners with modern, in-demand skills through an intuitive and engaging e-learning platform..</td>
+      <td style="padding: 12px;"><a href="https://brightskillz.42web.io/" target="_blank">🔗 Live Demo</a></td>
+    </tr>
   </tbody>
 </table>
 
