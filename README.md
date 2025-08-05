@@ -58,9 +58,6 @@
 </p>  
 </center>
 
----
-
-### 🏆 GitHub Achievements  
 
 ---
 
@@ -73,8 +70,7 @@
 </div>
 
 
-
-
+---
 
 
 ### 🌐 Let's Connect  
