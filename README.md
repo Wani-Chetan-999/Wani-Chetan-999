@@ -72,10 +72,6 @@
 
 ---
 
-Of course, Chetan! Here's your **original "Featured Projects" table** (Markdown version) exactly as you had it in your GitHub profile README before:
-
----
-
 ### 🔥 Featured Projects
 
 <table style="width: 100%; border-collapse: collapse; text-align: left; table-layout: auto;">
@@ -137,27 +133,52 @@ Of course, Chetan! Here's your **original "Featured Projects" table** (Markdown 
   </tbody>
 </table>
 
----
-
-
-
-### 🌐 Let's Connect  
-
-<p align="center">
-  <a href="https://chetandev999.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-%230A66C2.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/chetan-kailas-wani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:02ckwani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/Wani-Chetan-999/" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>  
 
 ---
 
-<p align="center">
-  <b style="font-size: 1.5em; color: #f39c12;"> 💡 <i>"Code is not just a skill, it’s an art form."</i> 💡 </b>  
-</p>  
+### 🌐 Let's Connect
 
 <p align="center">
-  <span style="font-size: 1.2em; background: linear-gradient(90deg, #36d1dc, #5b86e5); -webkit-background-clip: text; color: transparent;">
-    Ready to bring ideas to life? Let's connect! 🚀
-  </span>
-</p>  
+  <a href="https://chetandev999.netlify.app/" target="_blank" title="Visit My Portfolio">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-%230A66C2.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/chetan-kailas-wani/" target="_blank" title="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/💼 LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:02ckwani@gmail.com" title="Drop me an Email">
+    <img src="https://img.shields.io/badge/📬 Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Wani-Chetan-999/" target="_blank" title="Explore my GitHub">
+    <img src="https://img.shields.io/badge/🐙 GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<br/>
+
+<h3 align="center">🤝 Let's Code Something Great Together!</h3>
+
+<p align="center">
+  Whether you're into building cool projects, solving real-world problems, or just geeking out over tech — let's connect, collaborate, and create together! 💻✨  
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=500&color=36BCF7&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Lets's+Connect;%E2%9A%A1+Create+Together;%F0%9F%92%A1+Open+Source+Contibutions;%F0%9F%A4%96+AI%2C+ML+%26+DL+Explorer" alt="Typing Animation" />
+</div>
+
+
+---
+<!-- Cool laptop coding gif -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation">
+</p>
+
+
+
+<p align="center">
+  <b style="font-size: 1.3em; color: #f39c12;">🤝 🚀 Always open for exciting collaborations & learning opportunities! 🚀 🤝</b>
+</p>
+
+---
+
