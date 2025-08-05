@@ -51,19 +51,20 @@
 
 
 ### 📊 GitHub Stats  
-
+<center>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wani-Chetan-999&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wani-Chetan-999&layout=compact&theme=radical" alt="Top Languages" height="180" />
 </p>  
+</center>
 
 ---
 
 ### 🏆 GitHub Achievements  
 
-<p align="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Wani-Chetan-999&theme=radical&no-frame=true&title=Followers,Stars,Commit,Repositories,PullRequest,Issues,Contributions" alt="GitHub Trophies" />
-</p>
+</div>
 
 
 ### 🌐 Let's Connect  
