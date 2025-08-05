@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Code+Dreamer+%26+Builder;%E2%9A%A1+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+ML+Explorer;%F0%9F%8C%B1+Lifelong+Learner;%F0%9F%92%A1+Tech+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Code+Dreamer+%26+Builder+%F0%9F%9A%80;%E2%9A%A1+Full-Stack+Developer+%F0%9F%9A%80;%F0%9F%A4%96+AI+%26+ML+Explorer+%F0%9F%A4%96;%F0%9F%8C%B1+Lifelong+Learner+%F0%9F%8C%B1;%F0%9F%92%A1+Tech+Enthusiast+%F0%9F%92%A1" alt="Typing Animation" />
 </div>
 
 ---
