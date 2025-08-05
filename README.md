@@ -49,7 +49,6 @@
 
 ---
 
-<!-- Projects Section remains unchanged unless you'd like updates -->
 
 ### 📊 GitHub Stats  
 
@@ -59,6 +58,13 @@
 </p>  
 
 ---
+
+### 🏆 GitHub Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Wani-Chetan-999&theme=radical&no-frame=true&title=Followers,Stars,Commit,Repositories,PullRequest,Issues,Contributions" alt="GitHub Trophies" />
+</p>
+
 
 ### 🌐 Let's Connect  
 
