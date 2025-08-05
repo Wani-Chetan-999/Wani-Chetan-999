@@ -18,7 +18,8 @@
 - 🧠 Passionate about **Machine Learning**, **Deep Learning**, and **AI-based solutions**.  
 - 🛠️ Proficient in **Python**, **Django**, **JavaScript**, and **ML tools**.  
 - 💬 Reach out to me for discussions on **web dev**, **AI models**, or **cloud computing**.  
-- 🌐 Visit my [portfolio website](https://chetandev999.netlify.app) for more details!  
+- 🌐 Visit my [portfolio website](https://chetandev999.netlify.app) for more details!
+- ⚙️ Hands-on experience with DevOps practices including Docker, GitHub Actions, CI/CD, along with tools like Jenkins, Ansible, and Terraform for automation and infrastructure management.
 
 ---
 
@@ -40,6 +41,10 @@
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/MySQL-%234477A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
+  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+
 </p>  
 
 ---
