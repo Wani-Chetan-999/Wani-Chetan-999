@@ -1,4 +1,9 @@
-<h1 align="center">👋 Hi, I'm <a href="https://wani-chetan-999.github.io/Personal-Portfolio/" target="_blank">Chetan Wani</a>!</h1>  
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" style="margin-right: 10px;" alt="Waving Hand">
+  Hi, I'm <a href="https://wani-chetan-999.github.io/Personal-Portfolio/" target="_blank">Chetan Wani</a>!
+</h1>
+
+
 <p align="center">
   🚀 <b>Full-Stack Developer</b> | 💡 <b>Tech Enthusiast</b> | 🤖 <b>AI & ML Explorer</b>
 </p>  
