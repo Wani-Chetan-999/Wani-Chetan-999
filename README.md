@@ -72,6 +72,74 @@
 
 ---
 
+Of course, Chetan! Here's your **original "Featured Projects" table** (Markdown version) exactly as you had it in your GitHub profile README before:
+
+---
+
+### 🔥 Featured Projects
+
+<table style="width: 100%; border-collapse: collapse; text-align: left; table-layout: auto;">
+  <thead style="background-color: blue; color: white;">
+    <tr>
+      <th style="padding: 12px; white-space: nowrap;">🌟 Project Name</th>
+      <th style="padding: 12px;">📝 Description</th>
+      <th style="padding: 12px; white-space: nowrap;">🔗 Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #fff3e0;">
+      <td style="padding: 12px; font-weight: bold; white-space: nowrap; text-decoration: none;"><a href="https://github.com/Wani-Chetan-999/QuickAttend.git" target="_blank">🎯_QuickAttend</a></td>
+      <td style="padding: 12px;">AI-powered attendance tracker using Python and OpenCV.</td>
+      <td style="padding: 12px; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/QuickAttend.git" target="_blank">🔗_View_Repo</a></td>
+    </tr>
+    <tr style="background-color: #fff3e0;">
+      <td style="padding: 12px; font-weight: bold; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/Personal-Portfolio" target="_blank">🌐_Personal_Portfolio</a></td>
+      <td style="padding: 12px;">Fully responsive personal portfolio showcasing my work and skills.</td>
+      <td style="padding: 12px; white-space: nowrap;"><a href="https://chetandev999.netlify.app" target="_blank">🔗_Live Demo</a></td>
+    </tr>
+    <tr style="background-color: #c8e6c9;">
+      <td style="padding: 12px; font-weight: bold; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/Healthcare_Chatbot" target="_blank">🤖_Healthcare_Chatbot</a></td>
+      <td style="padding: 12px;">NLP-powered chatbot for healthcare assistance.</td>
+      <td style="padding: 12px; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/Healthcare_Chatbot.git" target="_blank">🔗_View_Repo</a></td>
+    </tr>
+    <tr style="background-color: #fff3e0;">
+      <td style="padding: 12px; font-weight: bold; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/Human-Pose-Estimation" target="_blank">🏃_Pose_Estimation</a></td>
+      <td style="padding: 12px;">Real-time human pose estimation using OpenCV, TensorFlow, and Streamlit.</td>
+      <td style="padding: 12px; white-space: nowrap;"><a href="https://human-pose-estimation-app-chetandev999.streamlit.app/" target="_blank">🔗_Live_Demo</a></td>
+    </tr>
+    <tr style="background-color: #fff3e0;">
+      <td style="padding: 12px; font-weight: bold; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/wms" target="_blank">♻️_Eco_Guardian_(WMS)</a></td>
+      <td style="padding: 12px;">A smart waste management system enabling users to report waste, while admins track, manage, and optimize cleanup efficiently.</td>
+      <td style="padding: 12px; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/wms" target="_blank">🔗_View_Repo</a></td>
+    </tr>
+    <tr style="background-color: #fff3e0;">
+      <td style="padding: 12px; font-weight: bold; white-space: nowrap;"><a href="https://brightskillz.42web.io/" target="_blank">🎓_BrightSkillz</a></td>
+      <td style="padding: 12px;">Empowering learners with modern, in-demand skills through an intuitive and engaging e-learning platform.</td>
+      <td style="padding: 12px; white-space: nowrap;"><a href="https://brightskillz.42web.io/" target="_blank">🔗_Live_Demo</a></td>
+    </tr>
+    <tr style="background-color: #c8e6c9;">
+      <td style="padding: 12px; font-weight: bold; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/DeepFake-Detection.git" target="_blank" >🛡️_Deepfake_Detection</a></td>
+      <td style="padding: 12px;">Detects fake media using ML models for image analysis.</td>
+      <td style="padding: 12px; white-space: nowrap;"><a href="https://github.com/Wani-Chetan-999/DeepFake-Detection.git" target="_blank">🔗_View_Repo</a></td>
+    </tr>
+    <tr style="background-color: #fff3e0;">
+    <td style="padding: 12px; font-weight: bold; white-space: nowrap;">
+      <a href="https://github.com/Wani-Chetan-999/FitLife_GYM" target="_blank">💪_Fit_Life_Gym</a>
+    </td>
+    <td style="padding: 12px;">
+      A modern web-based gym management system for tracking members, plans, and workouts.
+    </td>
+    <td style="padding: 12px; white-space: nowrap;">
+      <a href="https://github.com/Wani-Chetan-999/FitLife_GYM" target="_blank">🔗_View_Repo</a>
+    </td>
+  </tr>
+
+  </tbody>
+</table>
+
+---
+
+
 
 ### 🌐 Let's Connect  
 
