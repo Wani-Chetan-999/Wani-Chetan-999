@@ -60,15 +60,13 @@
 
 ---
 
+
 ### 🏆 GitHub Achievements  
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=Wani-Chetan-999&theme=radical&no-frame=true&title=Followers,Stars,Commit,Repositories,PullRequest,Issues,Contributions" alt="GitHub Trophies"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Wani-Chetan-999&theme=radical&margin-w=15&margin-h=15&no-frame=true&title=Followers,Stars,Commit,Repositories,PullRequest,Issues,Contributions" alt="GitHub Trophies" />
+</p>
+
 
 
 ### 🌐 Let's Connect  
